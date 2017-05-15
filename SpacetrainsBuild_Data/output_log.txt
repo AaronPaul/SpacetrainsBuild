@@ -19,9 +19,25 @@ Platform assembly: C:\Unity\PrivateStuff\SpacetrainsBuild\SpacetrainsBuild_Data\
 Loading C:\Unity\PrivateStuff\SpacetrainsBuild\SpacetrainsBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Unity\PrivateStuff\SpacetrainsBuild\SpacetrainsBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Unity\PrivateStuff\SpacetrainsBuild\SpacetrainsBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.082 seconds
+- Completed reload, in  0.161 seconds
 Platform assembly: C:\Unity\PrivateStuff\SpacetrainsBuild\SpacetrainsBuild_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Unity\PrivateStuff\SpacetrainsBuild\SpacetrainsBuild_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.809401 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4d60 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.538978 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1165.
+Total: 0.482820 ms (FindLiveObjects: 0.074839 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.360084 ms  DeleteObjects: 0.016678 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.804416 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1165.
+Total: 0.471701 ms (FindLiveObjects: 0.069279 ms CreateObjectMapping: 0.031218 ms MarkObjects: 0.360939 ms  DeleteObjects: 0.009836 ms)
+
